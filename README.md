@@ -182,3 +182,6 @@ uyarı kurallarını, yapılandırma doğrulamasını ve render çıktısını k
 ## Lisans
 
 MIT
+
+
+made by wortex213433
